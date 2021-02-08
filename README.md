@@ -27,3 +27,4 @@ The popularity class decides how popular the product is given the attributes whi
 12. popularity - Class of popularity (Target Column)
 
 ## Acheivement : Secured a Rank of "67" with Logloss Score of 0.36049 in this Hackathon
+![alt text](https://github.com/mvram123/Merchandise-Popularity-Prediction/blob/main/readme_resources/LeaderBoard.png)
