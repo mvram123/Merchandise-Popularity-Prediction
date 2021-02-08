@@ -25,3 +25,5 @@ The popularity class decides how popular the product is given the attributes whi
 10. score_4
 11. time
 12. popularity - Class of popularity (Target Column)
+
+### Acheivement : Secured a Rank of "67" with Logloss Score of 0.36049 in this Hackathon
